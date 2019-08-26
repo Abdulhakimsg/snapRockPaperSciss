@@ -1,9 +1,10 @@
-
-#Rock, Paper Scissors  React
+# Rock, Paper Scissors React
 
 Stack
--react
--Jest&Enzyme
+
+ - react
+ -  enzyme
+ -  jest
 
 
  Run `npm install` 
@@ -11,4 +12,4 @@ Stack
 The following commands are available:
 - `npm start` - starts the dev server on port 3000
 - `npm test` - run the tests
-- `npm run build` - build a production version of the project under `./build`
+- `npm run build` - build a production version of the project under `build`
